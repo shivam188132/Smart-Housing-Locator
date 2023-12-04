@@ -13,7 +13,7 @@ link = scrapping.property_scraped_link()
 
 
 
-google_form_link = "https://docs.google.com/forms/d/e/1FAIpQLSdLLoiswihQx9ncTZPft_WkGr-6vi_7wa8ENfjQnb4OYX2PBA/viewform?usp=sf_link"
+google_form_link = "YOUR FORM LINK"
 
 driver = webdriver.Chrome()
 driver.maximize_window()
